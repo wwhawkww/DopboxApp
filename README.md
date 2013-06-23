@@ -5,8 +5,14 @@ Create pointers to the files that you choose not to sync via DropBox API.
 
 Use virtualENV to create a virtual environment in the folder called 'Dropbox.ENV' .
   - https://pypi.python.org/pypi/virtualenv
+  
 Create a dropbox application:
   - https://www.dropbox.com/developers
+Update the application with your information in 'GET_UnsyncFiles.py':
+  # App information from Dropbox.com
+	APP_NAME = "--Your Application Name--"
+	APP_KEY = "--APP Key--"
+	APP_SECRET = "--APP Secret Code--"
 
 Reference 'DropboxApp_Requirements.txt' for pip installation modules required.
 
