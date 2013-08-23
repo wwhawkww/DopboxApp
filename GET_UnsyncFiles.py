@@ -16,9 +16,9 @@ workingDIR = os.getcwd()
 baseURL = r"www.dropbox.com/home"
 
 # App information from Dropbox.com
-APP_NAME = "NoSyncFilesandFolders"
-APP_KEY = "6mxj9n8b08otsi2"
-APP_SECRET = "8nbtuksilxhbmoy"
+APP_NAME = "************"
+APP_KEY = "**********"
+APP_SECRET = "**********"
 ACCESS_TYPE = "dropbox"
 
 # Dropbox application login.
